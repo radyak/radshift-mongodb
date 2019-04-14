@@ -1,3 +1,4 @@
+#!make
 
 IMAGE = radshift-mongodb
 REPO = radyak
