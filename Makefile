@@ -1,7 +1,8 @@
 #!make
+include ../.env
+export
 
 IMAGE = radshift-mongodb
-REPO = radyak
 TAG = latest
 
 default: deploy
